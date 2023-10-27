@@ -3,8 +3,8 @@
 A frontend project starter using Typesctipt, Next.js and Styled Components
 
 ## Requirements
-- [Node.js](https://nodejs.org/en) - **18.0.0 +**
-- [Plop](https://plopjs.com/documentation/#installation)
+- [Node.js](https://nodejs.org/en) - `18.0.0 +`
+- [Plop](https://plopjs.com/) - install globally: `npm install -g plop`
 
 ## Getting Started
 
